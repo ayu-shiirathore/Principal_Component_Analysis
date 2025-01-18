@@ -2,16 +2,6 @@
 
 This repository contains Python code for performing Principal Component Analysis (PCA) on the Iris dataset. The goal of this analysis is to reduce the dimensionality of the data while retaining as much variance as possible.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Requirements](#requirements)
-- [Dataset](#dataset)
-- [PCA Implementation](#pca-implementation)
-- [Steps](#steps)
-- [Results](#results)
-- [Conclusion](#conclusion)
-- [License](#license)
 
 ## Introduction
 
